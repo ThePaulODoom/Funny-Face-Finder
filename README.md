@@ -1,5 +1,9 @@
 # Funny Face Finder
 
+* [What is it?](#what-is-it)
+* [How do I use it?](#how-do-i-use-it)
+* [Why was this made?](#why-was-this-made)
+
 ## What is it?
 
 Funny Face Finder is a tool that crops the faces in a set of pictures.
